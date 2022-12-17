@@ -1,0 +1,25 @@
+.peep-box {
+    padding: 10px;
+    margin: 10px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    margin-left: 33%;
+    width: 33%;
+}
+
+.peep-text {
+    margin: 0;
+}
+
+.peep-metadata {
+    margin: 0;
+    color: #777;
+}
+
+.peep-username {
+    font-weight: bold;
+}
+
+.peep-time {
+    margin-left: 10px;
+}
